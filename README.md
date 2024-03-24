@@ -27,15 +27,21 @@ These instructions will get you a copy of the project up and running on your loc
 
 ```
 git clone https://github.com/JohnMoallim/RecordManagerBash.git
-
+```
 Navigate to the project directory:
+```
 cd RecordManagerBash
+```
 
 Ensure main.sh is executable:
+```
 chmod +x main.sh
+```
 
 Run the script:
+```
 ./main.sh
+```
 
 ### Usage
 After starting the script, you'll be presented with a menu of options for managing your record collection. Follow the on-screen prompts to add, delete, update, or search for records.
